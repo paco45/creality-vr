@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\VisualMind\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\VisualMind\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_11.06.19-1.906160467.00" t="ExcludeRecursive" />
+    <e p="C:\Users\VisualMind\Desktop\programas\11.06.19\11.06.19-1" t="IncludeRecursive">
+      <e p="11.06.19-1.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="createCube1.cs" t="Include" />
+        <e p="exportrun.cs" t="Include" />
+        <e p="LeapMotion" t="Include">
+          <e p="Core" t="Include">
+            <e p="Dependencies.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CorePreferences.cs" t="Include" />
+              <e p="CustomEditorBase.cs" t="Include" />
+              <e p="CustomPropertyDrawerBase.cs" t="Include" />
+              <e p="EmptyFolderUtility.cs" t="Include" />
+              <e p="LeapImageRetrieverEditor.cs" t="Include" />
+              <e p="LeapServiceProviderEditor.cs" t="Include" />
+              <e p="LeapXRServiceProviderEditor.cs" t="Include" />
+              <e p="Tests" t="Include">
+                <e p="FrameValidator.cs" t="Include" />
+                <e p="FromThenTests.cs" t="Include" />
+                <e p="HandFactoryTest.cs" t="Include" />
+                <e p="TransformCopyTest.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Example Assets" t="Include">
+                <e p="InertiaPostProcessProvider.cs" t="Include" />
+                <e p="ProjectionPostProcessProvider.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Plugins" t="Include">
+              <e p="LeapCSharp" t="Include">
+                <e p="Arm.cs" t="Include" />
+                <e p="Bone.cs" t="Include" />
+                <e p="CircularObjectBuffer.cs" t="Include" />
+                <e p="Config.cs" t="Include" />
+                <e p="Connection.cs" t="Include" />
+                <e p="Controller.cs" t="Include" />
+                <e p="CopyFromLeapCExtensions.cs" t="Include" />
+                <e p="CopyFromOtherExtensions.cs" t="Include" />
+                <e p="CSharpExtensions.cs" t="Include" />
+                <e p="Device.cs" t="Include" />
+                <e p="DeviceList.cs" t="Include" />
+                <e p="DistortionData.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="Tests" t="Include">
+                    <e p="CircularObjectBufferTests.cs" t="Include" />
+                    <e p="DeviceTests.cs" t="Include" />
+                    <e p="LeapCStressTests.cs" t="Include" />
+                    <e p="LeapCTests.cs" t="Include" />
+                    <e p="ObjectEquality.cs" t="Include" />
+                    <e p="StructMarshalTests.cs" t="Include" />
+                    <e p="VectorTests.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Events.cs" t="Include" />
+                <e p="FailedDevice.cs" t="Include" />
+                <e p="FailedDeviceList.cs" t="Include" />
+                <e p="Finger.cs" t="Include" />
+                <e p="Frame.cs" t="Include" />
+                <e p="Hand.cs" t="Include" />
+                <e p="IController.cs" t="Include" />
+                <e p="Image.cs" t="Include" />
+                <e p="ImageData.cs" t="Include" />
+                <e p="LeapC.cs" t="Include" />
+                <e p="LeapQuaternion.cs" t="Include" />
+                <e p="LeapTransform.cs" t="Include" />
+                <e p="Logger.cs" t="Include" />
+                <e p="Matrix.cs" t="Include" />
+                <e p="MemoryManager.cs" t="Include" />
+                <e p="MessageSeverity.cs" t="Include" />
+                <e p="PointMapping.cs" t="Include" />
+                <e p="StructMarshal.cs" t="Include" />
+                <e p="TransformExtensions.cs" t="Include" />
+                <e p="Vector.cs" t="Include" />
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="README_BEFORE_UPDATING.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="LeapCG.cginc" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Algorithms" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Tests" t="Include">
+                    <e p="SlidingMaxTest.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="SlidingMax.cs" t="Include" />
+                <e p="SmoothedFloat.cs" t="Include" />
+                <e p="SmoothedQuaternion.cs" t="Include" />
+                <e p="SmoothedVector3.cs" t="Include" />
+              </e>
+              <e p="Animation" t="Include">
+                <e p="CubicHermiteSpline" t="Include">
+                  <e p="HermiteSpline.cs" t="Include" />
+                  <e p="HermiteSpline2.cs" t="Include" />
+                  <e p="HermiteSpline3.cs" t="Include" />
+                </e>
+                <e p="Ease.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="TransformTweenBehaviourEditor.cs" t="Include" />
+                </e>
+                <e p="IValueProxy.cs" t="Include" />
+                <e p="TransformTweenBehaviour.cs" t="Include" />
+                <e p="Tween" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Tests" t="Include">
+                      <e p="TweenTests.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Enums.cs" t="Include" />
+                  <e p="IInterpolator.cs" t="Include" />
+                  <e p="Internal" t="Include">
+                    <e p="Interpolators" t="Include">
+                      <e p="InterpolatorBases.cs" t="Include" />
+                      <e p="MaterialInterpolators.cs" t="Include" />
+                      <e p="TransformInterpolators.cs" t="Include" />
+                      <e p="ValueInterpolators.cs" t="Include" />
+                    </e>
+                    <e p="TweenInstance.cs" t="Include" />
+                    <e p="TweenRunner.cs" t="Include" />
+                  </e>
+                  <e p="Tween.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Attachments" t="Include">
+                <e p="AttachmentHand.cs" t="Include" />
+                <e p="AttachmentHandEnableDisable.cs" t="Include" />
+                <e p="AttachmentHands.cs" t="Include" />
+                <e p="AttachmentPointBehaviour.cs" t="Include" />
+                <e p="AttachmentPointFlags.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="AttachmentHandsEditor.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Attributes" t="Include">
+                <e p="AutoFind.cs" t="Include" />
+                <e p="CombinablePropertyAttribute.cs" t="Include" />
+                <e p="CurveBounds.cs" t="Include" />
+                <e p="Disable.cs" t="Include" />
+                <e p="DisableIf.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CombinablePropertyDrawer.cs" t="Include" />
+                </e>
+                <e p="EditTimeOnly.cs" t="Include" />
+                <e p="EnumFlags.cs" t="Include" />
+                <e p="ImplementsInterface.cs" t="Include" />
+                <e p="ImplementsTypeNameDropdown.cs" t="Include" />
+                <e p="Incrementable.cs" t="Include" />
+                <e p="InspectorName.cs" t="Include" />
+                <e p="MaxValue.cs" t="Include" />
+                <e p="MinMax.cs" t="Include" />
+                <e p="MinValue.cs" t="Include" />
+                <e p="OnEditorChange.cs" t="Include" />
+                <e p="QuickButton.cs" t="Include" />
+                <e p="RunTimeOnly.cs" t="Include" />
+                <e p="Units.cs" t="Include" />
+              </e>
+              <e p="DataStructures" t="Include">
+                <e p="AssetFolder.cs" t="Include" />
+                <e p="DelayBuffer.cs" t="Include" />
+                <e p="DeltaBuffer.cs" t="Include" />
+                <e p="Deque.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="AssetFolderPropertyDrawer.cs" t="Include" />
+                  <e p="SerializableDictionaryEditor.cs" t="Include" />
+                  <e p="SerializableHashSetEditor.cs" t="Include" />
+                  <e p="StreamingAssetPropertyDrawer.cs" t="Include" />
+                  <e p="StreamingFolderPropertyDrawer.cs" t="Include" />
+                  <e p="Tests" t="Include">
+                    <e p="DequeTests.cs" t="Include" />
+                    <e p="MinHeapTest.cs" t="Include" />
+                    <e p="MultiTypedListTests.cs" t="Include" />
+                    <e p="MultiTypedReferenceTests.cs" t="Include" />
+                    <e p="ProduceConsumeBufferTest.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Either.cs" t="Include" />
+                <e p="Hash.cs" t="Include" />
+                <e p="IIndexable.cs" t="Include" />
+                <e p="IIndexableStruct.cs" t="Include" />
+                <e p="Maybe.cs" t="Include" />
+                <e p="MinHeap.cs" t="Include" />
+                <e p="MultiTypedList.cs" t="Include" />
+                <e p="MultiTypedReference.cs" t="Include" />
+                <e p="Pool.cs" t="Include" />
+                <e p="Pose.cs" t="Include" />
+                <e p="ProduceConsumeBuffer.cs" t="Include" />
+                <e p="ReadonlyHashSet.cs" t="Include" />
+                <e p="ReadonlyList.cs" t="Include" />
+                <e p="ReadonlySlice.cs" t="Include" />
+                <e p="RingBuffer.cs" t="Include" />
+                <e p="SerializableDictionary.cs" t="Include" />
+                <e p="SerializableHashSet.cs" t="Include" />
+                <e p="SerializableType.cs" t="Include" />
+                <e p="Slice.cs" t="Include" />
+                <e p="StreamingAsset.cs" t="Include" />
+                <e p="StreamingFolder.cs" t="Include" />
+                <e p="Type.cs" t="Include" />
+              </e>
+              <e p="DetectionUtilities" t="Include">
+                <e p="AbstractHoldDetector.cs" t="Include" />
+                <e p="Detector.cs" t="Include" />
+                <e p="DetectorLogicGate.cs" t="Include" />
+                <e p="ExtendedFingerDetector.cs" t="Include" />
+                <e p="FingerDirectionDetector.cs" t="Include" />
+                <e p="PalmDirectionDetector.cs" t="Include" />
+                <e p="PinchDetector.cs" t="Include" />
+                <e p="ProximityDetector.cs" t="Include" />
+              </e>
+              <e p="EditorTools" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="LeapRigUpgrader.cs" t="Include" />
+                  <e p="LeapUnityWindow.cs" t="Include" />
+                </e>
+                <e p="LeapPreferences.cs" t="Include" />
+                <e p="LeapProjectChecks.cs" t="Include" />
+              </e>
+              <e p="Encoding" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="VectorHandTests.cs" t="Include" />
+                </e>
+                <e p="VectorHand.cs" t="Include" />
+              </e>
+              <e p="HandModelManager.cs" t="Include" />
+              <e p="HandRepresentation.cs" t="Include" />
+              <e p="Hands" t="Include">
+                <e p="CapsuleHand.cs" t="Include" />
+                <e p="DebugHand.cs" t="Include" />
+                <e p="FingerModel.cs" t="Include" />
+                <e p="HandDrop.cs" t="Include" />
+                <e p="HandEnableDisable.cs" t="Include" />
+                <e p="HandModel.cs" t="Include" />
+                <e p="HandModelBase.cs" t="Include" />
+                <e p="HandTransitionBehavior.cs" t="Include" />
+                <e p="RiggedFinger.cs" t="Include" />
+                <e p="RiggedHand.cs" t="Include" />
+                <e p="RigidFinger.cs" t="Include" />
+                <e p="RigidHand.cs" t="Include" />
+                <e p="SkeletalFinger.cs" t="Include" />
+                <e p="SkeletalHand.cs" t="Include" />
+                <e p="TestHandFactory.cs" t="Include" />
+              </e>
+              <e p="LeapImageRetriever.cs" t="Include" />
+              <e p="LeapProfiling.cs" t="Include" />
+              <e p="LeapProvider.cs" t="Include" />
+              <e p="LeapServiceProvider.cs" t="Include" />
+              <e p="LeapTestProvider.cs" t="Include" />
+              <e p="LeapXRServiceProvider.cs" t="Include" />
+              <e p="Query" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="QueryTests.cs" t="Include" />
+                </e>
+                <e p="Query.cs" t="Include" />
+                <e p="QueryCollapseExtensions.cs" t="Include" />
+                <e p="QueryOperatorExtensions.cs" t="Include" />
+                <e p="QueryValueGenerators.cs" t="Include" />
+              </e>
+              <e p="Space" t="Include">
+                <e p="Definitions" t="Include">
+                  <e p="LeapCylindricalSpace.cs" t="Include" />
+                  <e p="LeapRadialSpace.cs" t="Include" />
+                  <e p="LeapSphericalSpace.cs" t="Include" />
+                </e>
+                <e p="ISpaceComponent.cs" t="Include" />
+                <e p="ITransformer.cs" t="Include" />
+                <e p="LeapSpace.cs" t="Include" />
+                <e p="LeapSpaceAnchor.cs" t="Include" />
+              </e>
+              <e p="Testing" t="Include">
+                <e p="LeapTestBase.cs" t="Include" />
+                <e p="StationaryTestLeapProvider.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="AnimationCurveUtil.cs" t="Include" />
+                <e p="ArrayPool.cs" t="Include" />
+                <e p="AssertHelper.cs" t="Include" />
+                <e p="BitConverterNonAlloc.cs" t="Include" />
+                <e p="Comment.cs" t="Include" />
+                <e p="ConnectionMonitor.cs" t="Include" />
+                <e p="DisconnectionNotice.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="BitConverterNonAllocTests.cs" t="Include" />
+                  <e p="CommentEditor.cs" t="Include" />
+                  <e p="EditorUtils.cs" t="Include" />
+                  <e p="EnumEventTableEditor.cs" t="Include" />
+                  <e p="Hotkeys.cs" t="Include" />
+                  <e p="ListAndArrayExtensionTests.cs" t="Include" />
+                  <e p="PostProcessProviderEditor.cs" t="Include" />
+                  <e p="SingleLayerEditor.cs" t="Include" />
+                  <e p="TransformUtilTests.cs" t="Include" />
+                  <e p="UtilsTests.cs" t="Include" />
+                </e>
+                <e p="EditorResources.cs" t="Include" />
+                <e p="EnableDepthBuffer.cs" t="Include" />
+                <e p="Enum.cs" t="Include" />
+                <e p="EnumEventTable.cs" t="Include" />
+                <e p="ExecutionOrder.cs" t="Include" />
+                <e p="FpsLabel.cs" t="Include" />
+                <e p="FrameRateControls.cs" t="Include" />
+                <e p="GuiRectUtil.cs" t="Include" />
+                <e p="HandUtils.cs" t="Include" />
+                <e p="Infix.cs" t="Include" />
+                <e p="InternalUtility.cs" t="Include" />
+                <e p="KeyEnableBehaviors.cs" t="Include" />
+                <e p="KeyEnableGameObjects.cs" t="Include" />
+                <e p="LeapColor.cs" t="Include" />
+                <e p="LeapUnityExtensions.cs" t="Include" />
+                <e p="ListAndArrayExtensions.cs" t="Include" />
+                <e p="PostProcessProvider.cs" t="Include" />
+                <e p="ProfilerSample.cs" t="Include" />
+                <e p="ProgressBar.cs" t="Include" />
+                <e p="RuntimeColliderGizmos.cs" t="Include" />
+                <e p="RuntimeGizmoManager.cs" t="Include" />
+                <e p="RuntimeGizmoToggle.cs" t="Include" />
+                <e p="SingleLayer.cs" t="Include" />
+                <e p="Swizzle.cs" t="Include" />
+                <e p="TransformHistory.cs" t="Include" />
+                <e p="TransformUtil.cs" t="Include" />
+                <e p="Utils.cs" t="Include" />
+                <e p="XRSupportUtil.cs" t="Include" />
+              </e>
+              <e p="XR" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="LeapEyeDislocatorEditor.cs" t="Include" />
+                  <e p="XRHeightOffsetEditor.cs" t="Include" />
+                </e>
+                <e p="LeapEyeDislocator.cs" t="Include" />
+                <e p="XRHeightOffset.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="PassthroughBackground.shader" t="Include" />
+              <e p="PassthroughForeground.shader" t="Include" />
+              <e p="RuntimeGizmos.shader" t="Include" />
+              <e p="ThresholdOverlay.shader" t="Include" />
+              <e p="VertexOffsetShader.shader" t="Include" />
+            </e>
+            <e p="Version.txt" t="Include" />
+          </e>
+          <e p="Modules" t="Include">
+            <e p="Hands" t="Include">
+              <e p="Examples" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="CenterTransformOnCam.cs" t="Include" />
+                  <e p="CycleHandPairs.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="LeapHandsAutoRigEditor.cs" t="Include" />
+                </e>
+                <e p="LeapHandsAutoRig.cs" t="Include" />
+                <e p="MinimalHand.cs" t="Include" />
+                <e p="PolyFinger.cs" t="Include" />
+                <e p="PolyHand.cs" t="Include" />
+              </e>
+            </e>
+            <e p="InteractionEngine" t="Include">
+              <e p="Examples" t="Include">
+                <e p="2. Basic UI" t="Include">
+                  <e p="MovePoseExample.cs" t="Include" />
+                </e>
+                <e p="3. Interaction Callbacks" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="TransformHandleEditor.cs" t="Include" />
+                    </e>
+                    <e p="TransformHandle.cs" t="Include" />
+                    <e p="TransformRotationHandle.cs" t="Include" />
+                    <e p="TransformTool.cs" t="Include" />
+                    <e p="TransformTranslationHandle.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="5. Anchors" t="Include">
+                  <e p="SimpleAnchorFeedback.cs" t="Include" />
+                </e>
+                <e p="6. Dynamic UI" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="WorkstationBehaviourEditor.cs" t="Include" />
+                    </e>
+                    <e p="SimpleMatchAnchorScaleAndState.cs" t="Include" />
+                    <e p="WorkstationBehaviourExample.cs" t="Include" />
+                  </e>
+                  <e p="Tests" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="RenderWireSphere.cs" t="Include" />
+                      <e p="WorkstationPoseTest.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="7. Moving Reference Frames" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="AngularSpeedTextBehaviour.cs" t="Include" />
+                    <e p="AutopilotSystem.cs" t="Include" />
+                    <e p="LinearReferenceSpawner.cs" t="Include" />
+                    <e p="LinearSpeedTextBehaviour.cs" t="Include" />
+                    <e p="Spaceship.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="8. Swap Grasp" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="SwapGraspExample.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Common Example Assets" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="SimpleFacingCameraCallbacks.cs" t="Include" />
+                    <e p="SimpleInteractionEmission.cs" t="Include" />
+                    <e p="SimpleInteractionGlow.cs" t="Include" />
+                    <e p="SimpleRendererUtil.cs" t="Include" />
+                    <e p="SimpleScaleUtil.cs" t="Include" />
+                    <e p="SimpleTransformUtil.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ContactBoneParentEditor.cs" t="Include" />
+                  <e p="InteractionBehaviourEditor.cs" t="Include" />
+                  <e p="InteractionControllerEditor.cs" t="Include" />
+                  <e p="InteractionHandEditor.cs" t="Include" />
+                  <e p="InteractionManagerEditor.cs" t="Include" />
+                  <e p="InteractionVRControllerEditor.cs" t="Include" />
+                </e>
+                <e p="InteractionBehaviour.cs" t="Include" />
+                <e p="InteractionController.cs" t="Include" />
+                <e p="InteractionHand.cs" t="Include" />
+                <e p="InteractionManager.cs" t="Include" />
+                <e p="InteractionXRController.cs" t="Include" />
+                <e p="Internal" t="Include">
+                  <e p="ContactBone.cs" t="Include" />
+                  <e p="ContactBoneParent.cs" t="Include" />
+                  <e p="DefaultXRNodeTrackingProvider.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="InteractionChecks.cs" t="Include" />
+                  </e>
+                  <e p="HeuristicGrabClassifier.cs" t="Include" />
+                  <e p="Interface" t="Include">
+                    <e p="IGraspedMovementHandler.cs" t="Include" />
+                    <e p="IGraspedPoseHandler.cs" t="Include" />
+                    <e p="IInteractionBehaviour.cs" t="Include" />
+                    <e p="IInternalInteractionController.cs" t="Include" />
+                    <e p="IInternalInteractionManager.cs" t="Include" />
+                    <e p="IThrowHandler.cs" t="Include" />
+                  </e>
+                  <e p="IXRControllerTrackingProvider.cs" t="Include" />
+                  <e p="KabschGraspedPose.cs" t="Include" />
+                  <e p="KinematicGraspedMovement.cs" t="Include" />
+                  <e p="NonKinematicGraspedMovement.cs" t="Include" />
+                  <e p="SlidingWindowThrow.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="Anchors" t="Include">
+                    <e p="Anchor.cs" t="Include" />
+                    <e p="AnchorableBehaviour.cs" t="Include" />
+                    <e p="AnchorGroup.cs" t="Include" />
+                    <e p="Editor" t="Include">
+                      <e p="AnchorableBehaviourEditor.cs" t="Include" />
+                      <e p="AnchorEditor.cs" t="Include" />
+                    </e>
+                    <e p="Tests" t="Include">
+                      <e p="AnchorScoreTest.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Editor" t="Include">
+                    <e p="InteractionButtonEditor.cs" t="Include" />
+                    <e p="InteractionSliderEditor.cs" t="Include" />
+                  </e>
+                  <e p="InteractionButton.cs" t="Include" />
+                  <e p="InteractionSlider.cs" t="Include" />
+                  <e p="InteractionToggle.cs" t="Include" />
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="ActivityManager.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="IgnoreColliderForInteractionEditor.cs" t="Include" />
+                  </e>
+                  <e p="Extensions.cs" t="Include" />
+                  <e p="GraspedMovementEvent.cs" t="Include" />
+                  <e p="HideInteractionHandWhenControllerMoving.cs" t="Include" />
+                  <e p="IgnoreColliderForInteraction.cs" t="Include" />
+                  <e p="IgnoreCollisionsInChildren.cs" t="Include" />
+                  <e p="KabschSolver.cs" t="Include" />
+                  <e p="PhysicsCallbacks.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="LeapMotionGestureDetection" t="Include">
+          <e p="GestureDetection" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Activation" t="Include">
+                <e p="ObjectActivation.cs" t="Include" />
+                <e p="SelectableObject.cs" t="Include" />
+              </e>
+              <e p="BehindTheScenesStuff" t="Include">
+                <e p="CustomGestureConnector.cs" t="Include" />
+                <e p="DetectionFinger.cs" t="Include" />
+                <e p="DetectionHand.cs" t="Include" />
+                <e p="FingerCollision.cs" t="Include" />
+                <e p="GestureBase.cs" t="Include" />
+                <e p="GestureDetection.cs" t="Include" />
+                <e p="GestureDetectionMenuStuff.cs" t="Include" />
+                <e p="GestureRequirement.cs" t="Include" />
+                <e p="GestureRequirementStatics.cs" t="Include" />
+              </e>
+              <e p="CustomGestureRequirements" t="Include">
+                <e p="FingerCurlRequirement.cs" t="Include" />
+                <e p="FingerExtendedRequirement.cs" t="Include" />
+                <e p="HandDirectionRequirement.cs" t="Include" />
+                <e p="HandVelocityRequirement.cs" t="Include" />
+                <e p="PinchRequirement.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="CustomGestureEditor.cs" t="Include" />
+              </e>
+              <e p="ExampleScripts" t="Include">
+                <e p="BallSpawner.cs" t="Include" />
+                <e p="DirectionalLineSelector.cs" t="Include" />
+                <e p="FireBullet.cs" t="Include" />
+                <e p="GameObjectActivationToggle.cs" t="Include" />
+                <e p="HandFlying.cs" t="Include" />
+                <e p="HideAndShow.cs" t="Include" />
+                <e p="LightColorSetter.cs" t="Include" />
+                <e p="LightController.cs" t="Include" />
+                <e p="MovementExample.cs" t="Include" />
+                <e p="ObjectSpawner.cs" t="Include" />
+                <e p="PunchBagSpawner.cs" t="Include" />
+                <e p="PunchingBag.cs" t="Include" />
+                <e p="ResizeObject.cs" t="Include" />
+                <e p="RotateObject.cs" t="Include" />
+                <e p="SelectionToggle.cs" t="Include" />
+                <e p="SetText.cs" t="Include" />
+                <e p="SpecificRotation.cs" t="Include" />
+                <e p="Target.cs" t="Include" />
+                <e p="TranslateObject.cs" t="Include" />
+              </e>
+              <e p="Gestures" t="Include">
+                <e p="BothHandsPinchingGesture.cs" t="Include" />
+                <e p="ClapGesture.cs" t="Include" />
+                <e p="ClawGesture.cs" t="Include" />
+                <e p="CustomGesture" t="Include">
+                  <e p="CustomGesture.cs" t="Include" />
+                </e>
+                <e p="FingerGesture.cs" t="Include" />
+                <e p="FistGesture.cs" t="Include" />
+                <e p="GunGesture.cs" t="Include" />
+                <e p="HandFacingGesture.cs" t="Include" />
+                <e p="NumberGesture.cs" t="Include" />
+                <e p="PeaceGesture.cs" t="Include" />
+                <e p="PinchGesture.cs" t="Include" />
+                <e p="PointGesture.cs" t="Include" />
+                <e p="SwipeGesture.cs" t="Include" />
+                <e p="ThumbGesture.cs" t="Include" />
+              </e>
+              <e p="KeyComponents" t="Include">
+                <e p="DetectionManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="OBJExport" t="Include">
+          <e p="OBJExporter.cs" t="Include" />
+        </e>
+        <e p="ObjFromFile.cs" t="Include" />
+        <e p="OBJImport" t="Include">
+          <e p="CharWordReader.cs" t="Include" />
+          <e p="MTLLoader.cs" t="Include" />
+          <e p="OBJLoader.cs" t="Include" />
+          <e p="OBJLoaderHelper.cs" t="Include" />
+          <e p="OBJObjectBuilder.cs" t="Include" />
+          <e p="Samples" t="Include">
+            <e p="ObjFromStream.cs" t="Include" />
+          </e>
+          <e p="StringExtensions.cs" t="Include" />
+          <e p="TextureLoader" t="Include">
+            <e p="BinaryExtensions.cs" t="Include" />
+            <e p="BMPLoader.cs" t="Include" />
+            <e p="ColorExtensions.cs" t="Include" />
+            <e p="DDSLoader.cs" t="Include" />
+            <e p="ImageLoader.cs" t="Include" />
+            <e p="ImageLoaderHelper.cs" t="Include" />
+            <e p="ImageUtils.cs" t="Include" />
+            <e p="TGALoader.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="SimpleFileBrowser" t="Include">
+            <e p="Android" t="Include">
+              <e p="FBPermissionCallbackAndroid.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="FileBrowser.cs" t="Include" />
+              <e p="FileBrowserItem.cs" t="Include" />
+              <e p="FileBrowserMovement.cs" t="Include" />
+              <e p="FileBrowserQuickLink.cs" t="Include" />
+              <e p="SimpleRecycledListView" t="Include">
+                <e p="IListViewAdapter.cs" t="Include" />
+                <e p="ListItem.cs" t="Include" />
+                <e p="RecycledListView.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="QuickOutline" t="Include">
+          <e p="readme.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="OutlineFill.shader" t="Include" />
+              <e p="OutlineMask.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Outline.cs" t="Include" />
+          </e>
+        </e>
+        <e p="rotatePivot.cs" t="Include" />
+        <e p="Select.cs" t="Include" />
+        <e p="selectedOutline.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
